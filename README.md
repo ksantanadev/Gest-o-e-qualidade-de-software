@@ -1,2 +1,2 @@
-# Gest-o-e-qualidade-de-software
+# Gestao_e_qualidade_de_software
 Professor Calvetti
