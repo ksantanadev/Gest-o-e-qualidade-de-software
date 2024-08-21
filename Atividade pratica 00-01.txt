@@ -1,0 +1,33 @@
+Gestão e qualidade de software.
+Atividade prática 00-01.
+
+Modelos de Processo de Software.
+
+Modelos Tradicionais:
+Modelo em Cascata: Abordagem sequencial onde cada fase (análise, design, implementação, testes, manutenção) deve ser concluída antes de passar para a próxima. É simples, mas rígido em termos de mudanças.
+Modelo V: Enfatiza a verificação e validação ao longo do ciclo de vida do software, complementando o modelo em cascata com foco em testes.
+Modelos Ágeis:
+Scrum: Divida o trabalho em sprints curtos e iterativos, com reuniões regulares e ajustes contínuos.
+Kanban: Visualiza o fluxo de trabalho usando um quadro para gerenciar e melhorar o processo contínuo.
+Modelos Híbridos e Adaptativos:
+DevOps: Integra desenvolvimento e operações para facilitar a entrega contínua e a colaboração.
+Gerenciamento de Projetos de Software:
+
+Planejamento e Estimativas: Estabelece cronogramas, custos e recursos necessários para o projeto.
+Gestão de Riscos: Identifica e avalia riscos, e desenvolve estratégias para mitigá-los.
+Controle e Monitoramento: Acompanha o progresso usando métricas e relatórios para garantir que o projeto esteja no caminho certo.
+Controle de Qualidade e Garantia de Qualidade:
+
+Revisão e Inspeção de Código: Avalia o código para encontrar e corrigir erros e garantir a conformidade com os padrões.
+Testes de Software: Inclui testes unitários, de integração, de sistema e de aceitação para verificar se o software funciona conforme esperado.
+Automação de Testes: Usa ferramentas para automatizar a execução de testes, melhorando a eficiência e a cobertura.
+Gestão da Configuração de Software:
+
+Controle de Versões: Rastreia e gerencia mudanças no código-fonte com ferramentas como Git.
+Gerenciamento de Mudanças: Processos para controlar e documentar alterações no software.
+Gerenciamento de Artefatos: Inclui o controle de documentos e versões de código e binaries.
+Métricas e Melhoria Contínua:
+
+Métricas de Qualidade: Avalia aspectos como cobertura de testes e densidade de defeitos para medir a qualidade do software.
+Processos de Melhoria: Adota modelos como CMMI e ISO 9001 para aprimorar continuamente os processos de desenvolvimento e gestão.
+Análise de Desempenho: Examina o desempenho do software e a eficiência dos processos para identificar áreas de melhoria.
